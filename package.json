@@ -1,6 +1,6 @@
 {
   "name": "@developer.krd/discord-dashboard",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "Plug-and-play Discord bot dashboard with built-in frontend and Discord OAuth2 login.",
   "license": "MIT",
   "repository": {

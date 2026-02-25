@@ -30,6 +30,38 @@ We ship with three meticulously crafted layouts out of the box. Simply change th
 
 ![Compact Template Screenshot](../../images/compact-template.png)
 
+### 4) `aurora`
+
+- **Aesthetic:** Vibrant, gradient-rich with glowing aurora effects.
+- **Features:** Animated backgrounds, soft color transitions, and ethereal panel highlights.
+- **Best for:** Bots wanting a visually striking, immersive experience.
+
+![Aurora Template Screenshot](../../images/aurora-template.png)
+
+### 5) `cyberpunk`
+
+- **Aesthetic:** Neon, high-tech, cyberpunk-inspired visuals.
+- **Features:** Sharp lines, glowing accents, dark backgrounds, and bold color pops.
+- **Best for:** Bots with a futuristic, tech-driven vibe.
+
+![Cyberpunk Template Screenshot](../../images/cyberpunk-template.png)
+
+### 6) `hologram`
+
+- **Aesthetic:** Sleek, holographic overlays and glassy panels.
+- **Features:** Layered transparency, animated hologram effects, and sci-fi UI elements.
+- **Best for:** Bots aiming for a modern, sci-fi dashboard look.
+
+![Hologram Template Screenshot](../../images/hologram-template.png)
+
+### 7) `nebula`
+
+- **Aesthetic:** Cosmic, space-themed with nebula backgrounds.
+- **Features:** Starfield effects, swirling nebula clouds, and deep-space color palettes.
+- **Best for:** Bots that want a galactic, awe-inspiring interface.
+
+![Nebula Template Screenshot](../../images/nebula-template.png)
+
 ---
 
 ## ⚙️ How Template Selection Works

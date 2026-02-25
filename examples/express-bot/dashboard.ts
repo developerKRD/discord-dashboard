@@ -11,7 +11,7 @@ export function createBotDashboard(options: { app: Express; config: BotConfig; s
     app,
     basePath: config.dashboardBasePath,
     dashboardName: config.dashboardName,
-    uiTemplate: "default",
+    uiTemplate: "nebula",
     uiTheme: "default",
     botToken: config.botToken,
     client,
